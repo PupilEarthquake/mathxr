@@ -9,10 +9,10 @@
     <atom:link href="http://localhost:1313/docs/proofs/category-theory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theorem 2.3.3 in WwL Algebra p.59</title>
-      <link>http://localhost:1313/docs/proofs/category-theory/wwl-theo2.3.3/</link>
+      <link>http://localhost:1313/docs/proofs/category-theory/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/proofs/category-theory/wwl-theo2.3.3/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;&#xA;&lt;h2 id=&#34;method&#34;&gt;&#xA;  Method&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#method&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&#xA;  &lt;img src=&#34;fig-1.jpg&#34; alt=&#34;fig1&#34; /&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/docs/proofs/category-theory/test/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;&#xA;&lt;h2 id=&#34;method&#34;&gt;&#xA;  Method&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#method&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>

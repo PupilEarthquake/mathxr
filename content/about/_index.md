@@ -9,4 +9,13 @@ title: About
 
 # About
 
-This is about page.
+{{% columns %}}
+
+![fig](avatar.jpg)
+
+<--->
+## Hi
+
+I'm Xiao, a master's student in basic mathematics, with a focus on group theory.
+
+{{% /columns %}}
