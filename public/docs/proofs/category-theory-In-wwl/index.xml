@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <link>http://localhost:1313/docs/proofs/category-theory-In-wwl/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/docs/proofs/category-theory-In-wwl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>p.59 Theorem 2.3.3</title>
+      <link>http://localhost:1313/docs/proofs/category-theory-In-wwl/cat-equiv-induces-center-isom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/proofs/category-theory-In-wwl/cat-equiv-induces-center-isom/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;test&lt;/p&gt;&#xA;&lt;h2 id=&#34;method&#34;&gt;&#xA;  Method&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#method&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

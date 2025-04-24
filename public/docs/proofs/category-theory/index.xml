@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/docs/proofs/category-theory/</link>
     <description>Recent content on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Post Test</title>
-      <link>http://localhost:1313/posts/test/</link>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
-      <description>&lt;p&gt;bull shit&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/docs/proofs/category-theory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theorem 2.3.3 in WwL Algebra p.59</title>
       <link>http://localhost:1313/docs/proofs/category-theory/wwl-theo2.3.3/</link>

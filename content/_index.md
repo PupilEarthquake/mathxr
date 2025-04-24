@@ -1,8 +1,12 @@
 ---
 type: docs
 title: Home
+BookComments: false
+BookToC: false
+enableGitInfo: false
 ---
 
-# Empty
+# XXXiao's Website
 
-ddadad
+
+post some proof.
