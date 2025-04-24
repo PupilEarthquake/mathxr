@@ -4,6 +4,11 @@ baseURL = 'https://example.com/'
 title = 'Home'
 theme = 'hugo-book'
 
+# host on github pages
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 # Book configuration
 disablePathToLower = true
 enableGitInfo = true
