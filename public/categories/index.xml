@@ -6,13 +6,13 @@
     <description>Recent content in Categories on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Uncategorized</title>
-      <link>http://localhost:1313/categories/uncategorized/</link>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/uncategorized/</guid>
+      <title>Read</title>
+      <link>http://localhost:1313/categories/read/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/read/</guid>
       <description></description>
     </item>
   </channel>

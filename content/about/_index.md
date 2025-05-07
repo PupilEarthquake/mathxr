@@ -16,6 +16,6 @@ title: About
 <--->
 ## Hi
 
-I'm Xiao, a master's student in basic mathematics, with a focus on group theory.
+I'm Xiao, a master's student in mathematics, with a focus on group theory.
 
 {{% /columns %}}

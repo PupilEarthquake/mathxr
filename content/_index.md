@@ -15,6 +15,6 @@ enableGitInfo: false
 
 This website includes the following content:
 
-1. Some proofs related to algebra. While reading _Methods in Algebra (代数学方法)_  written by Professor WWL, I encounter complex proofs, and after completing them, I will publish the refined versions here. See to the __Proofs__ section on the left.
+1. Some proofs related to algebra. While reading _Methods in Algebra (代数学方法)_  written by Professor WWL, I encounter complex proofs, and after completing them, I will publish the more detailed versions here. See to the __Proofs__ section on the left.
 
-2. Miscellaneous writings, including tutorials, commentaries, stories, and more. See the __Blog__ section on the left.
+2. Miscellaneous writings, including tutorials, commentaries, and more. See the __Blog__ section on the left.

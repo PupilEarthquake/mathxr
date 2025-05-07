@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Home</description>
+    <title>CS, Type Theory on Home</title>
+    <link>http://localhost:1313/tags/cs-type-theory/</link>
+    <description>Recent content in CS, Type Theory on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/cs-type-theory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>形式化数学推理</title>
       <link>http://localhost:1313/posts/ai4math-intro/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/ai4math-intro/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;AI实现数学推理可视作两条路径: 一是非形式化推理, 如大语言模型(LLM); 二是形式化推理, 如编程语言Lean. &lt;em&gt;Formal Mathmatical Reasonling: A New Frontier in AI&lt;/em&gt; (下面简称文章)总结了这些领域现有的进展; 讨论了公开的挑战; 并且展望了未来里程碑式突破的衡量标准. 此博客简单复述了论文中关于近期进展的内容, 并抛出了一些读者的看法.&lt;/p&gt;&#xA;&lt;h1 id=&#34;two-lines-informal--formal-mathematics&#34;&gt;&#xA;  Two Lines: Informal / Formal Mathematics&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#two-lines-informal--formal-mathematics&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;非形式化方法指搭建数学大语言模型来解决问题, 就像问Deepseek R1数学问题那样. 常见的做法是在数学教材, 数学论文等文本上训练LLMs. LLM的优点在于灵活性, 可以处理自然语言.&lt;/p&gt;&#xA;&lt;p&gt;所谓形式数学推理是指在形式系统下表达数学. 一个形式系统具有 well-formed 的语法, 并且可以通过一组 well-defined 的规则进行推理. 比如公理集合论, 高阶逻辑(higher-order logic), 依赖类型论(dependent type theory). 几乎所有的数学都可以用ZFC公理系统下一阶逻辑来表达, 而这正是通常的研究生数学教材开篇所做的事情. 数学也可以在依赖类型论下表达, Lean便是建立在依赖类型论上的. 相比于非形式化方法, 形式系统保证了推理过程100%正确, 并且可以提供反馈, 比如在使用Lean时软件会显示每一步推理后目标是否达成.&lt;/p&gt;&#xA;&lt;p&gt;我们已经见识过, LLM在思考数学问题时难免会出现一本正经地胡说八道的情况; 同时非形式化方法还面临高质量数学文本缺乏的难题. 这是非形式化的缺点. 另一方面, 形式化方法也有明显缺点. Lean早在2013年就由微软研究院推出, 虽然获得了少量数学家的注意, 并且也有数学家在极力推广(如Kevin Buzzard), 但至今没有被大众接受. 结合个人使用体验, 我认为原因至少有三点:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TEST ARTICLE</title>
-      <link>http://localhost:1313/docs/proofs/category-theory/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/proofs/category-theory/test/</guid>
-      <description>&lt;h2 id=&#34;1-introduction&#34;&gt;&#xA;  1. Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#1-introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;This article is to test the mathematical article&amp;rsquo;s compilation, and other functions. Now, allow me to quote:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The world is material; matter is in motion; motion follows laws; and these laws can be understood.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;2-math&#34;&gt;&#xA;  2. Math&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#2-math&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Prop&lt;/strong&gt; Given a functor &#xA;&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/katex/katex.min.css&#34; /&gt;&#xA;&lt;script defer src=&#34;http://localhost:1313/katex/katex.min.js&#34;&gt;&lt;/script&gt;&#xA;&lt;script defer src=&#34;http://localhost:1313/katex/auto-render.min.js&#34; onload=&#34;renderMathInElement(document.body);&#34;&gt;&lt;/script&gt;&lt;span&gt;&#xA;  \(\alpha: I \to Set\)&#xA;&lt;/span&gt;&#xA;, let &lt;span&gt;&#xA;  \( X = \bigsqcup_i \alpha(i) \)&#xA;&lt;/span&gt;&#xA;, define:&lt;/p&gt;&#xA;&lt;span&gt;&#xA;  \[&#xA;a \to b \Leftrightarrow (a, b) \in R \Leftrightarrow b = \alpha(\sigma)(a)&#xA;\]&#xA;&lt;/span&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;Proof&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
