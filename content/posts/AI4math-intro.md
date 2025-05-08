@@ -4,12 +4,10 @@ date: 2025-05-07
 # bookComments: false
 # bookSearchExclude: false
 linktitle: 形式化数学推理
-menu:
-  main:
-    parent: read
+menu: main
 weight: 1
-categories: read
-tags: CS, type theory
+categories: "Read"
+tags: ["CS", "Type Theory"]
 ---
 
 # Introduction
