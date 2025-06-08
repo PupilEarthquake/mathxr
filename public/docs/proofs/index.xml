@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/docs/proofs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Methods in Algebra</title>
+      <link>http://localhost:1313/docs/proofs/wwl-methods-in-aj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/proofs/wwl-methods-in-aj/</guid>
+      <description>&lt;p&gt;under construction&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;      &#xA;  &lt;a href=&#34;main.pdf&#34;&gt;complete proofs&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

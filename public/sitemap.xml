@@ -7,8 +7,6 @@
   </url><url>
     <loc>http://localhost:1313/docs/proofs/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/proofs/category-theory/</loc>
-  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,8 +30,8 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/proofs/category-theory/ch-2/</loc>
-  </url><url>
     <loc>http://localhost:1313/docs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/proofs/wwl-methods-in-aj/</loc>
   </url>
 </urlset>

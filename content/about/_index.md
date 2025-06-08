@@ -18,4 +18,9 @@ title: About
 
 I'm Xiao, a master's student in mathematics, with a focus on group theory.
 
+## Contact Me
+__QQ:__ 1138205680
+
+__Email:__ xiaoto1@outlook.com
+
 {{% /columns %}}
