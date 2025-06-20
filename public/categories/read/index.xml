@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Read on Home</title>
+    <title>Read on MathXR</title>
     <link>http://localhost:1313/categories/read/</link>
-    <description>Recent content in Read on Home</description>
+    <description>Recent content in Read on MathXR</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>

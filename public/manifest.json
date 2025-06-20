@@ -1,6 +1,6 @@
 {
-  "name": "Home",
-  "short_name": "Home",
+  "name": "MathXR",
+  "short_name": "MathXR",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

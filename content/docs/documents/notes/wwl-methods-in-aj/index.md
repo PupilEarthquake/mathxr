@@ -1,5 +1,5 @@
 ---
-title: Methods in Algebra
+title: Complete Proofs in Methods in Algebra
 ---
 
 under construction...
