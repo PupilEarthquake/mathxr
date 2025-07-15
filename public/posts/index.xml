@@ -6,8 +6,15 @@
     <description>Recent content in Blog on MathXR</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Jun 2025 13:04:27 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 21:13:01 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ds on Terminal: 终端AI聊天工具</title>
+      <link>http://localhost:1313/posts/ds-on-terminal/</link>
+      <pubDate>Tue, 15 Jul 2025 21:13:01 +0800</pubDate>
+      <guid>http://localhost:1313/posts/ds-on-terminal/</guid>
+      <description>&lt;p&gt;最近受到Gemini Cli启发, 仿造了一个Linux平台下在终端调用DeepSeek的API并且聊天的工具. 仅实现了极为简陋的功能. 具体可见项目地址: &#xA;  &lt;a href=&#34;https://github.com/PupilEarthquake/Deepseek_Chat_on_Terminal&#34;&gt;https://github.com/PupilEarthquake/Deepseek_Chat_on_Terminal&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;  &lt;img src=&#34;demo.gif&#34; alt=&#34;demo&#34; /&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>自动剧场与演员存在之问-关于少女歌剧的思考</title>
       <link>http://localhost:1313/posts/cmt-rvu-slt/</link>
