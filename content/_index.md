@@ -19,12 +19,10 @@ This website includes the following content:
 1. Notes, such as reading notes on papers, complete proofs for certain textbooks, etc. Due to the pursuit of recording speed, not much attention will be paid on the article format. They are usually published in PDF format. See the __Notes__ section on the left side.
 
     __Existing content:__
-    - The more complete proof of _代数学方法_ written by professor LWW, includes part of the chapter-2, category theory.
+    - The more complete proof of _代数学方法_ written by professor LWW, includes chapter-1, transfinite recursion; chapter-2,  Yoneda Lemma and limits; chapter-4, free group; chapter-5, polynomial ring. And it is being updated continuously.
 
 
 
 
-2. Tutorials, systematic tutorials summarized from my own learning. Compared with notes, they have more standardized format and will be published in PDF format. See __Tutorials__ on the left.
 
-
-3. Miscellaneous writings, including tutorials, commentaries, and more. See the __Blog__ section on the left.
+2. Miscellaneous writings, including tutorials, commentaries, and more. See the __Blog__ section on the left.
