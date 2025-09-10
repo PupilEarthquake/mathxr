@@ -20,6 +20,7 @@ This website includes the following content:
 
     __Existing content:__
     - The more complete proof of _代数学方法_ written by professor LWW, includes chapter-1, transfinite recursion; chapter-2,  Yoneda Lemma and limits; chapter-4, free group; chapter-5, polynomial ring. And it is being updated continuously.
+    - Note for _Fundamentals of Semigroup Theory_, includes chapter-1.
 
 
 

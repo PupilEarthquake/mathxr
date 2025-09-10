@@ -11,7 +11,11 @@
     <loc>http://localhost:1313/posts/ai4math-intro/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/docs/documents/notes/wwl-methods-in-aj/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/documents/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/documents/notes/fund-semigrp-note/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/documents/notes/</loc>
   </url><url>
@@ -52,8 +56,6 @@
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/documents/notes/wwl-methods-in-aj/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/</loc>
   </url>
