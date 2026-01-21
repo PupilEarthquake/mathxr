@@ -6,22 +6,8 @@
     <description>Recent content in Categories on MathXR</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Jul 2025 21:13:01 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Technology</title>
-      <link>http://localhost:1313/categories/technology/</link>
-      <pubDate>Tue, 15 Jul 2025 21:13:01 +0800</pubDate>
-      <guid>http://localhost:1313/categories/technology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Comment</title>
-      <link>http://localhost:1313/categories/comment/</link>
-      <pubDate>Tue, 17 Jun 2025 13:04:27 +0800</pubDate>
-      <guid>http://localhost:1313/categories/comment/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Read</title>
       <link>http://localhost:1313/categories/read/</link>

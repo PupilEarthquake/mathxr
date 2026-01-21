@@ -16,7 +16,7 @@ title: About
 <--->
 ## Hi
 
-I'm Xiao, a master's student in mathematics, with a focus on group theory.
+I'm Xiao, a master's student in mathematics, with a focus on model theory, combinatorics.
 
 ## Contact Me
 __QQ:__ 1138205680

@@ -11,4 +11,4 @@ weight: 2
 
 under construction...
 
-[Note](note-smg-071125.pdf)
+[Note](note-smg-260121.pdf)
