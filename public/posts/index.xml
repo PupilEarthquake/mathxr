@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/posts/ai4math-intro/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;AI实现数学推理可视作两条路径: 一是非形式化推理, 如大语言模型(LLM); 二是形式化推理, 如编程语言Lean. &lt;em&gt;Formal Mathmatical Reasonling: A New Frontier in AI&lt;/em&gt; (下面简称文章)总结了这些领域现有的进展; 讨论了公开的挑战; 并且展望了未来里程碑式突破的衡量标准. 此博客简单复述了论文中关于近期进展的内容, 并抛出了一些读者的看法.&lt;/p&gt;&#xA;&lt;h1 id=&#34;two-lines-informal--formal-mathematics&#34;&gt;&#xA;  Two Lines: Informal / Formal Mathematics&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#two-lines-informal--formal-mathematics&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;非形式化方法指搭建数学大语言模型来解决问题, 就像问Deepseek R1数学问题那样. 常见的做法是在数学教材, 数学论文等文本上训练LLMs. LLM的优点在于灵活性, 可以处理自然语言.&lt;/p&gt;&#xA;&lt;p&gt;所谓形式数学推理是指在形式系统下表达数学. 一个形式系统具有 well-formed 的语法, 并且可以通过一组 well-defined 的规则进行推理. 比如公理集合论, 高阶逻辑(higher-order logic), 依赖类型论(dependent type theory). 几乎所有的数学都可以用ZFC公理系统下一阶逻辑来表达, 而这正是通常的研究生数学教材开篇所做的事情. 数学也可以在依赖类型论下表达, Lean便是如此. 相比于非形式化方法, 形式系统保证了推理过程100%正确, 并且可以提供反馈, 比如在使用Lean时软件会显示每一步推理后目标是否达成.&lt;/p&gt;&#xA;&lt;p&gt;我们已经见识过, LLM在思考数学问题时难免会出现一本正经地胡说八道的情况; 同时非形式化方法还面临高质量数学文本缺乏的难题. 这是非形式化的缺点. 另一方面, 形式化方法也有明显缺点. Lean早在2013年就由微软研究院推出, 在这之前还有Coq, Isabelle等项目. 虽然获得了少量数学家的注意, 并且也有数学家在极力推广(如Kevin Buzzard), 但至今没有被大众接受. 结合个人使用体验, 我认为原因至少有三点:&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/completeness-theorem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/completeness-theorem/</guid>
+      <description>&lt;h1 id=&#34;数理逻辑中的不完备性定理&#34;&gt;&#xA;  数理逻辑中的不完备性定理&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e6%95%b0%e7%90%86%e9%80%bb%e8%be%91%e4%b8%ad%e7%9a%84%e4%b8%8d%e5%ae%8c%e5%a4%87%e6%80%a7%e5%ae%9a%e7%90%86&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;</description>
+    </item>
   </channel>
 </rss>
